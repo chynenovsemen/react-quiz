@@ -1,26 +1,28 @@
-[
-	{
-		"id": 1,
-		"question": "What?",
-		"answerA": "aaa",
-		"answerB": "bbb",
-		"answerC": "ccc",
-		"correctAnswer": "b"
-	},
-	{
-		"id": 2,
-		"question": "Where?",
-		"answerA": "aaa",
-		"answerB": "bbb",
-		"answerC": "ccc",
-		"correctAnswer": "a"
-	},
-	{
-		"id": 3,
-		"question": "When?",
-		"answerA": "aaa",
-		"answerB": "bbb",
-		"answerC": "ccc",
-		"correctAnswer": "c"
-	}
-]
+{
+	"questions": [
+		{
+			"id": 1,
+			"question": "What?",
+			"answerA": "aaa",
+			"answerB": "bbb",
+			"answerC": "ccc",
+			"correctAnswer": "b"
+		},
+		{
+			"id": 2,
+			"question": "Where?",
+			"answerA": "aaa",
+			"answerB": "bbb",
+			"answerC": "ccc",
+			"correctAnswer": "a"
+		},
+		{
+			"id": 3,
+			"question": "When?",
+			"answerA": "aaa",
+			"answerB": "bbb",
+			"answerC": "ccc",
+			"correctAnswer": "c"
+		}
+	]
+}
